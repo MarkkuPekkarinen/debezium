@@ -92,6 +92,7 @@ danastott,Dana Stott
 daniilzabludovsky,Daniil Zabludovsky
 Day-dreamer0,Rajender Passi
 dayron-perez,Dayron Perez Roldan
+DDINGJOO,MyungJoo Song
 ddsr-ops,ddsr-ops
 debjeetsarkar,Debjeet Sarkar
 denizozogularas,Deniz Ozogul
@@ -196,6 +197,7 @@ joontube,Seongjoon Jeong
 jorkzijlstra,JOrk Zijlstra
 joschi,Jochen Schalanda
 josetesan,Jose Luis
+JosipVukoja,Josip Vukoja
 jouir,Julien Riou
 jtanza,John Tanza
 juanfiallo,Juan Fiallo
@@ -379,6 +381,7 @@ Steviep,Stephen Powis
 stt-bakr,Barnabas Kralik
 subkanthi,Kanthi Subramanian
 subodh,Subodh Kant Chaturvedi
+sudeepshm,Sudeep HM
 sullis,Sean C. Sullivan
 sundongkim-dev,Sundong Kim
 sunxiaojian,Sun Xiao Jian
